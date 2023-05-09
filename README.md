@@ -103,7 +103,7 @@ predict(w1,w2,test)
 ```
 
 
-**oUTPUT**
+**OUTPUT**
 ![Bro](https://user-images.githubusercontent.com/132982592/237029244-e75d6fc7-fdf0-4e34-8db6-686646d8a3fa.jpg)
  
 
